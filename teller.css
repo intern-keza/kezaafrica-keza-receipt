@@ -1,0 +1,64 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.container {
+  margin: 0 auto;
+  padding: 3rem;
+}
+img{
+    max-width: auto;
+    max-height: 50%;
+}
+p {
+  text-align: justify;
+  font-size: 18px;
+  font-weight: 800;
+}
+.header-text {
+  display: block;
+}
+table,
+td {
+  border: 1px solid #e49b9b;
+  border-radius: 3px;
+  border-collapse: collapse;
+  justify-content: center;
+  border-spacing: 10px;
+  margin: 7rem;
+  padding: 7rem;
+  align-self: center;
+}
+th {
+  background-color: #e49b9b;
+}
+.hl {
+  border: 2px solid hsla(0, 97%, 31%, 0.945);
+}
+.main {
+  display: flex;
+  justify-content: space-between;
+  text-align: justify;
+}
+.issued {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+.main-i {
+  display: block;
+  justify-content: left;
+  text-align: justify;
+}
+.subtotal {
+    display: flex;
+  justify-content:end;
+}
+.sub {
+    display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.receipt-no {
+  text-align: justify;
+}

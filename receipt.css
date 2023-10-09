@@ -1,0 +1,38 @@
+
+.container{
+    margin: 3rem;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+}
+.imgs{
+    display: absolute;
+    z-index: 2;
+}
+.header{
+    margin:2rem 4rem;
+    padding: 1rem;
+    font-size: 19px;
+}
+.main{
+    margin: 5rem;
+    padding: 0rem 20rem;
+    justify-content: center;  
+    text-align: center;
+    font-size: 27px;
+}
+.letter{
+    text-align: justify;
+    font-size: 20px;
+    justify-content: center;
+}
+p{
+    margin: 1rem;
+}
+.footer{
+    margin: 2rem 4rem;
+    padding: 1rem;
+    font-size: 20px;
+}
+
